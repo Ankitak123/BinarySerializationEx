@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySerializationEx", "BinarySerializationEx.csproj", "{5FA7329A-FABA-49BB-BC81-BE6901C51622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA7329A-FABA-49BB-BC81-BE6901C51622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA7329A-FABA-49BB-BC81-BE6901C51622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA7329A-FABA-49BB-BC81-BE6901C51622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA7329A-FABA-49BB-BC81-BE6901C51622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB15DC29-38FB-4C76-B553-D1953859E0D7}
+	EndGlobalSection
+EndGlobal
